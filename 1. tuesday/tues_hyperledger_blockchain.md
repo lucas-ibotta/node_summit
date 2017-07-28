@@ -5,13 +5,13 @@
 - private chains, no need for consensus or proof of work
 - Hyper Ledger not being used in production anywhere
 
-# Requirements for Business Blockchains
+## Requirements for Business Blockchains
 - shared ledger
 - smart contracts
 - privacy
 - trust - only commit trusted changes
 
-# Benefits
+## Benefits
 - saving time
 - removing costs
 - reduce risk

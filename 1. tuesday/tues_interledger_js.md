@@ -1,5 +1,4 @@
 # Routing Tiny Payments with Ingerledger.js
-
 - Stefan Thomas / @justmoon
 - works at Ripple
 - @interledger / interledger.org / gitter
@@ -13,7 +12,7 @@
 - as volume increases, cost goes down (and vis-a-versa)
 - payments should have super low transaction cost
 
-# "internetworking"
+## "internetworking"
 - "internet"
 - first about the size of the network
 - now, as they're connected, it all became about the speed
@@ -22,7 +21,7 @@
 - Visa advertising their own reach
 - Bitcoin scaling is a pain in the ass
 
-# Interledger Project
+## Interledger Project
 - example: file upload service
 - module `koa-ilp`
 - server side `ilp.pad({ price: 10 })` - require payment for using this endpoint
@@ -40,7 +39,7 @@
   - the napster moment, users opting out
 - Money solves the barter problem. Direct exchange of money.
 
-# Examples
+## Examples
 - webtorrent-ilp @emscschwartz on github
   - pay for media AS you stream it
 - TUMO - pay for curated playlists, github.com/haykadamyan/playlist-store
